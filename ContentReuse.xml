@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<movie_collection>
+    <movies>
+        <movie_name>Star Wars: Revenge of the Sith</movie_name>
+        <year>2005</year>
+        <fav_character>Anakin Skywalker</fav_character>
+        <director>George Lucas</director>
+        <fav_song>Duel of the Fates</fav_song>
+    </movies>
+
+    <movies>
+        <movie_name>Interstellar</movie_name>
+        <year>2014</year>
+        <fav_character>Murph</fav_character>
+        <director>Christopher Nolan</director>
+        <fav_song>No Time for Caution</fav_song>
+    </movies>
+
+     <movies>
+        <movie_name>Once Upon a Time in Hollywood</movie_name>
+        <year>2019</year>
+        <fav_character>Cliff Booth</fav_character>
+        <director>Quentin Tarantino</director>
+        <fav_song>Brother Love's Salvation Traveling Show</fav_song>
+    </movies>
+    
+    <movies>
+        <movie_name>La La Land</movie_name>
+        <year>2016</year>
+        <fav_character>Mia</fav_character>
+        <director>Damien Chazelle</director>
+        <fav_song>City of Stars</fav_song>
+    </movies>
+
+    <movies>
+        <movie_name>Willy Wonka and the Chocolate Factory</movie_name>
+        <year>1971</year>
+        <fav_character>Willy Wonka</fav_character>
+        <director> Mel Stuart</director>
+        <fav_song>Pure Imagination</fav_song>
+    </movies>
+
+    <movies>
+        <movie_name>Perks of Being A Wallflower</movie_name>
+        <year>2012</year>
+        <fav_character>Sam</fav_character>
+        <director>Stephen Chbosky</director>
+        <fav_song>Heroes</fav_song>
+    </movies>
+
+    <movies>
+        <movie_name>Groundhog Day</movie_name>
+        <year>2012</year>
+        <fav_character>Phil</fav_character>
+        <director>Harold Ramis</director>
+        <fav_song>I Got You Babe</fav_song>
+    </movies>
+
+    <movies>
+        <movie_name>Mamma Mia!</movie_name>
+        <year>2008</year>
+        <fav_character>Donna</fav_character>
+        <director>Phyllida Lloyd</director>
+        <fav_song>The Winner Takes It All</fav_song>
+    </movies>
+
+
+    <movies>
+        <movie_name>The Breakfast Club</movie_name>
+        <year>1985</year>
+        <fav_character>John Bender</fav_character>
+        <director>John Hughes</director>
+        <fav_song>Don't You (Forget About Me)</fav_song>
+    </movies>
+
+    <movies>
+        <movie_name>Sleeping Beauty</movie_name>
+        <year>1959</year>
+        <fav_character>Aurora</fav_character>
+        <director>Clyde Geronimi</director>
+        <fav_song>Once Upon A Dream</fav_song>
+    </movies>
+</movie_collection>
+    
+
+
+    
+
+    
